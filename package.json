@@ -21,13 +21,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bencelaszlo/chiisai-event-emitter.git"
+    "url": "git+https://github.com/bencevarga666/chiisai-event-emitter.git"
   },
   "license": "MIT",
   "author": {
-    "name": "Bence László",
-    "email": "bence@bencelaszlo.hu",
-    "url": "https://bencelaszlo.hu"
+    "name": "Bence Varga",
+    "email": "bencelaszlo@protonmail.com",
+    "url": "https://bence.varga.bio"
   },
   "engines": {
     "node": ">=22.22.2"
@@ -40,9 +40,9 @@
     "typescript"
   ],
   "bugs": {
-    "url": "https://github.com/bencelaszlo/chiisai-event-emitter/issues"
+    "url": "https://github.com/bencevarga666/chiisai-event-emitter/issues"
   },
-  "homepage": "https://github.com/bencelaszlo/chiisai-event-emitter#readme",
+  "homepage": "https://github.com/bencevarga666/chiisai-event-emitter#readme",
   "devDependencies": {
     "@biomejs/biome": "2.4.15",
     "@ryansonshine/commitizen": "^4.2.8",
